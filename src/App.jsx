@@ -18,7 +18,7 @@ function Footer({year}) {
 }
 
 function App() {
-  let name  = "Shahzeb Soomro"
+  let name  = "Shahzeb Baig Soomro"
   return (
     <>
     <Header name="Mr." />
